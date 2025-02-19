@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [E-Shop](https://ecom-frontend-2vfq6f0ex-rohanmanuels-projects.vercel.app/auth/login)
+- 🔭 I’m currently working on [E-Shop](https://shopsphere-g3fx.onrender.com)
 
-- 🌱 I’m currently learning **Next.js and React Native**
+- 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rohanmanuels-projects.vercel.app/](https://portfolio-rohanmanuels-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rohan-portfolio-iota.vercel.app/](https://rohan-portfolio-iota.vercel.app/)
 
-- 💬 Ask me about **Next.js and React Native**
+- 💬 Ask me about **React.js and Next.js**
 
 - 📫 How to reach me **rohanmanuel.a2022csbs@sece.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PdBPZewLK7qngD5H9yLThvc_aTy9qUAk/view](https://drive.google.com/file/d/1PdBPZewLK7qngD5H9yLThvc_aTy9qUAk/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1r6jxauwtKGsF1OjHz9S9nDHgk8KJTNji/view](https://drive.google.com/file/d/1r6jxauwtKGsF1OjHz9S9nDHgk8KJTNji/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
