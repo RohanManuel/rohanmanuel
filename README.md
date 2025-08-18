@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Personal AI Assistant](https://huggingface.co/spaces/rohan131/career_conversation)
+- 🔭 I’m currently working on [SideKick Personal Co Worker](https://huggingface.co/spaces/rohan131/Sidekick)
 
-- 🌱 I’m currently learning **AI Agents**
+- 🌱 I’m currently learning **AI/LLM Tools & APIs**
 
 - 👨‍💻 All of my projects are available at [https://rohan-portfolio-iota.vercel.app/](https://rohan-portfolio-iota.vercel.app/)
 
