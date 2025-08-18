@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rohanmanuel.a2022csbs@sece.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10gfQPpH69I7_88-wBzD53Z4T5dRrGji1/view](https://drive.google.com/file/d/1mYzJ_-QgFlXAeG3OwlklrtynV0cE7IIj/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10gfQPpH69I7_88-wBzD53Z4T5dRrGji1/view](https://drive.google.com/file/d/1XIewEbapwtvL0MPAQL7NGuwoPrSlGl0W/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
